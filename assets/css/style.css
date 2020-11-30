@@ -21,8 +21,8 @@ header h1 {
 }
 
 header h1 .seo {
-    color: #d9dcd6;
-} /*Changed color of .seo to darker color for readability */
+    color: #a8a8a8;
+} /*Changed color of .seo to darker color for readability & contrast*/
 
 nav {
     padding-top: 15px;
